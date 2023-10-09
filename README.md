@@ -16,8 +16,8 @@ This code serves the purpose of showcasing how to create permutations of a list 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/permutations-generator.git
-   cd permutations-generator
+  [ git clone https://github.com/yourusername/permutations-generator.git
+   cd permutations-generator](https://github.com/Safiuddin098/ML-Task)
    ```
 
 2. Run the script:
@@ -68,8 +68,8 @@ The purpose of this code is to demonstrate how to train a convolutional neural n
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/stl10-resnet50.git
-   cd stl10-resnet50
+   [git clone https://github.com/yourusername/stl10-resnet50.git
+   cd stl10-resnet50](https://github.com/Safiuddin098/ML-Task)
    ```
 
 2. Install the required libraries :
