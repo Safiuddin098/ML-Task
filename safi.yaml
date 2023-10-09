@@ -1,0 +1,6 @@
+train: ../train/images  # Path to the training dataset annotation file (e.g., train.txt)
+val: ../valid/images 
+
+
+nc: 1                      # Number of classes in your dataset
+names: ['cardamage'] 
